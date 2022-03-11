@@ -1,8 +1,5 @@
 version = 1
 
 [[analyzers]]
-name = "javascript"
+name = "csharp"
 enabled = true
-
-  [analyzers.meta]
-  plugins = ["angular"]
